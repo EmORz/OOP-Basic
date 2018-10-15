@@ -9,3 +9,14 @@ C:\Users\User\source\repos\BankAccount_Demo\Bank\obj\Debug\netcoreapp2.0\Bank.As
 C:\Users\User\source\repos\BankAccount_Demo\Bank\obj\Debug\netcoreapp2.0\Bank.AssemblyInfo.cs
 C:\Users\User\source\repos\BankAccount_Demo\Bank\obj\Debug\netcoreapp2.0\Bank.dll
 C:\Users\User\source\repos\BankAccount_Demo\Bank\obj\Debug\netcoreapp2.0\Bank.pdb
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\bin\Debug\netcoreapp2.0\Bank.deps.json
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\bin\Debug\netcoreapp2.0\Bank.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\bin\Debug\netcoreapp2.0\Bank.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\bin\Debug\netcoreapp2.0\Bank.dll
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\bin\Debug\netcoreapp2.0\Bank.pdb
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\obj\Debug\netcoreapp2.0\Bank.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\obj\Debug\netcoreapp2.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\obj\Debug\netcoreapp2.0\Bank.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\obj\Debug\netcoreapp2.0\Bank.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\obj\Debug\netcoreapp2.0\Bank.dll
+C:\Users\User\source\repos\OOP-Basic\BankAccount_Demo\Bank\obj\Debug\netcoreapp2.0\Bank.pdb

@@ -8,36 +8,36 @@ namespace BankAccount
     {
         static void Main(string[] args)
         {
-            var data = new Dictionary<int, BankAccount>();
+            //var data = new Dictionary<int, BankAccount>();
 
-            while (true)
-            {
-                string[] tokens = Console.ReadLine().Split();
-                if (tokens[0] !="End")
-                {
-                    switch (tokens[0])
-                    {
-                        case "Create":
-                            Create(tokens, data);
-                            break;
-                        case "Deposit":
-                            Deposit(tokens, data);
-                            break;
-                        case "Withdraw":
-                            Withdraw(tokens, data);
-                            break;
-                        case "Print":
-                            Print(tokens, data);
-                            break;
-                        default:
-                            break;
-                    }
-                }
-                else
-                {
-                    break;
-                }
-            }
+            //while (true)
+            //{
+            //    string[] tokens = Console.ReadLine().Split();
+            //    if (tokens[0] !="End")
+            //    {
+            //        switch (tokens[0])
+            //        {
+            //            case "Create":
+            //                Create(tokens, data);
+            //                break;
+            //            case "Deposit":
+            //                Deposit(tokens, data);
+            //                break;
+            //            case "Withdraw":
+            //                Withdraw(tokens, data);
+            //                break;
+            //            case "Print":
+            //                Print(tokens, data);
+            //                break;
+            //            default:
+            //                break;
+            //        }
+            //    }
+            //    else
+            //    {
+            //        break;
+            //    }
+            //}
         }
 
         private static void Print(string[] tokens, Dictionary<int, BankAccount> data)
