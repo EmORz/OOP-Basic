@@ -8,7 +8,7 @@ namespace BankAccount
     {
         private int id;
 
-        public int ID
+        public int Id
         {
             get { return id; }
             set { id = value; }
@@ -24,13 +24,13 @@ namespace BankAccount
         {
             this.Balance += amount;
         }
-        public void WithDraw(decimal amount)
+        public void Withdraw(decimal amount)
         {
             this.Balance -= amount;
         }
         public override string ToString()
         {
-            return $"Account ID{ID}, balance {Balance:f2}";
+            return $"Account {Id}, balance {Balance:f2}";
         }
         
     }

@@ -8,6 +8,12 @@ namespace BankAccount
     {
         static void Main(string[] args)
         {
+
+            var acc = new BankAccount();
+            acc.Id = 1;
+            acc.Deposit(15);
+            acc.Withdraw(10);
+            Console.WriteLine(acc);
             //var data = new Dictionary<int, BankAccount>();
 
             //while (true)
@@ -103,7 +109,7 @@ namespace BankAccount
             }
             else
             {
-                data.Add(temp, new BankAccount { ID = temp });
+                data.Add(temp, new BankAccount { Id = temp });
 
             }
         }
