@@ -35,8 +35,5 @@ namespace DefiningClasses
             this.email = email;
             this.age = age;
         }
-
-
-
     }
 }

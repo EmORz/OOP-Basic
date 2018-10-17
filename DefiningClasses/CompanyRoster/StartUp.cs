@@ -78,7 +78,7 @@ namespace DefiningClasses
 
             foreach (var item in data.Where(x => x.department == highestDepartment).OrderByDescending(c => c.salary))
             {
-                string temp = item.name + " " + item.salary + " " + item.email + " " + item.age;
+                string temp = item.name + " " + $"{item.salary:f2}" + " " + item.email + " " + item.age;
                 Console.WriteLine(temp);
             }
 

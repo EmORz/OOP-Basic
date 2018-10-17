@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.deps.json
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.dll
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.pdb
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.dll
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.pdb

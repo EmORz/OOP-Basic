@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\DefiningClasses\\CompanyRoster\\CompanyRoster.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\OOP-Basic\\DefiningClasses\\CompanyRoster\\CompanyRoster.csproj",
       "projectName": "CompanyRoster",
-      "projectPath": "C:\\Users\\User\\source\\repos\\DefiningClasses\\CompanyRoster\\CompanyRoster.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\OOP-Basic\\DefiningClasses\\CompanyRoster\\CompanyRoster.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\DefiningClasses\\CompanyRoster\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\OOP-Basic\\DefiningClasses\\CompanyRoster\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

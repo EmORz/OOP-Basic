@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\DefiningClasses\\DefiningClasses\\DefiningClasses.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\OOP-Basic\\DefiningClasses\\DefiningClasses\\DefiningClasses.csproj",
       "projectName": "DefiningClasses",
-      "projectPath": "C:\\Users\\User\\source\\repos\\DefiningClasses\\DefiningClasses\\DefiningClasses.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\OOP-Basic\\DefiningClasses\\DefiningClasses\\DefiningClasses.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\DefiningClasses\\DefiningClasses\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\OOP-Basic\\DefiningClasses\\DefiningClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
