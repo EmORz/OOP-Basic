@@ -56,14 +56,10 @@ namespace RectangleIntersection
 
         internal bool Intersect(Rectangle secondRect)
         {
-            if (this.X + this.Width < secondRect.X
-                || secondRect.X+secondRect.Width<this.X
-                ||this.Y + this.Height<secondRect.Y
-                ||secondRect.Y+secondRect.Height<this.Y)
-            {
-                return false;
-            }
-            return true;
+            return secondRect.X + secondRect.width >= this.X &&
+                secondRect.X <= this.X + this.width &&
+                secondRect.Y >= this.Y - this.height &&
+                secondRect.Y - secondRect.height <= this.Y;
         }
     }
 }
