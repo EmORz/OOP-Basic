@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.1\FamilyTree.deps.json
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.1\FamilyTree.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.1\FamilyTree.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.1\FamilyTree.dll
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\bin\Debug\netcoreapp2.1\FamilyTree.pdb
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.1\FamilyTree.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.1\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.1\FamilyTree.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.1\FamilyTree.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.1\FamilyTree.dll
+C:\Users\User\source\repos\OOP-Basic\DefiningClasses\FamilyTree\obj\Debug\netcoreapp2.1\FamilyTree.pdb
