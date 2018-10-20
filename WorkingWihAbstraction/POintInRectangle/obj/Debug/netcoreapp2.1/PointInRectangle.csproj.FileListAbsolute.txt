@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.deps.json
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.pdb
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\POintInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.pdb

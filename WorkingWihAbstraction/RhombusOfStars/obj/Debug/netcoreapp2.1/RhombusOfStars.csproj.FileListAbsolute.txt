@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.deps.json
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.dll
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\bin\Debug\netcoreapp2.1\RhombusOfStars.pdb
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.dll
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.pdb
+C:\Users\User\source\repos\OOP-Basic\WorkingWihAbstraction\RhombusOfStars\obj\Debug\netcoreapp2.1\RhombusOfStars.csprojAssemblyReference.cache
