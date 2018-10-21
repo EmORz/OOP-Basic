@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
 namespace P01_RawData
 {
@@ -9,6 +10,7 @@ namespace P01_RawData
     {
         static void Main(string[] args)
         {
+   
             List<Car> cars = new List<Car>();
             int lines = int.Parse(Console.ReadLine());
             for (int i = 0; i < lines; i++)
