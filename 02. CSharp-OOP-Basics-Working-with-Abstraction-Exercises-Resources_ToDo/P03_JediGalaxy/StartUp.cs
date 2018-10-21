@@ -7,8 +7,8 @@ namespace P03_JediGalaxy
     {
         static void Main()
         {
-            int[] dimestions = SplitData();
-            int[,] matrix = GetMatrix(dimestions);
+            int[] dimensions = SplitData();
+            int[,] matrix = GetMatrix(dimensions);
 
             string command = Console.ReadLine();
             long sum = 0;
@@ -18,19 +18,21 @@ namespace P03_JediGalaxy
                 int[] evilCoordinate = SplitData();
                 int evilX = evilCoordinate[0];
                 int evilY = evilCoordinate[1];
+                Coordinate evilXY = new Coordinate(evilX, evilY);
 
-                while (evilX >= 0 && evilY >= 0)
+                while (evilXY.X >= 0 && evilXY.Y >= 0)
                 {
-                    if (IsInMatrix(matrix, evilX, evilY))
+                    if (IsInMatrix(matrix, evilXY.X, evilXY.Y))
                     {
-                        matrix[evilX, evilY] = 0;
+                        matrix[evilXY.X, evilXY.Y] = 0;
                     }
-                    evilX--;
-                    evilY--;
+                    
+                    evilXY.X--;
+                    evilXY.Y--;
                 }
-
-                int ivoX = ivoCoordinate[0];
-                int ivoY = ivoCoordinate[1];
+                Coordinate ivoXY = new Coordinate(ivoCoordinate[0], ivoCoordinate[1]);
+                int ivoX = ivoXY.X;
+                int ivoY = ivoXY.Y;
 
                 while (ivoX >= 0 && ivoY < matrix.GetLength(1))
                 {
