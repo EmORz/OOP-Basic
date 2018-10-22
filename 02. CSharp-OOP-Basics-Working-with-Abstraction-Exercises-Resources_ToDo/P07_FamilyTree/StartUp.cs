@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace P07_FamilyTree
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
