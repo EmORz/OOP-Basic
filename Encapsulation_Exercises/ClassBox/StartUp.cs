@@ -16,7 +16,6 @@
                 var surfaceArea = box.SurfaceArea();
                 var surfaceLateral = box.LateralSurface();
                 var volume = box.Volume();
-
                 Console.WriteLine($"Surface Area - {surfaceArea:f2}");
                 Console.WriteLine($"Lateral Surface Area - {surfaceLateral:f2}");
                 Console.WriteLine($"Volume - {volume:f2}");

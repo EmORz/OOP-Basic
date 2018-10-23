@@ -21,7 +21,7 @@ namespace ClassBox
             {
                 if (value<=0)
                 {
-                    throw new ArgumentException("Width cannot be zero or negative.");
+                    throw new ArgumentException("Height cannot be zero or negative.");
                 }
                 height = value;
             }
@@ -48,7 +48,7 @@ namespace ClassBox
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException("Width cannot be zero or negative.");
+                    throw new ArgumentException("Length cannot be zero or negative.");
                 }
                 lenght = value;
             }
