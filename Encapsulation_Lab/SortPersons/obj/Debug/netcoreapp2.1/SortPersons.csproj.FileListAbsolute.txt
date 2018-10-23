@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\bin\Debug\netcoreapp2.1\SortPersons.deps.json
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\bin\Debug\netcoreapp2.1\SortPersons.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\bin\Debug\netcoreapp2.1\SortPersons.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\bin\Debug\netcoreapp2.1\SortPersons.dll
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\bin\Debug\netcoreapp2.1\SortPersons.pdb
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\obj\Debug\netcoreapp2.1\SortPersons.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\obj\Debug\netcoreapp2.1\SortPersons.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\obj\Debug\netcoreapp2.1\SortPersons.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\obj\Debug\netcoreapp2.1\SortPersons.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\obj\Debug\netcoreapp2.1\SortPersons.dll
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\SortPersons\obj\Debug\netcoreapp2.1\SortPersons.pdb
