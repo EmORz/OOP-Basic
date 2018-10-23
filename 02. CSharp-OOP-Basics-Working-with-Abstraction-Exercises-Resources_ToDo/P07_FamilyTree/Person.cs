@@ -11,6 +11,12 @@ public class Person
 
     public Person()
     {
+
+    }
+    public Person(string name, string birthday)
+    {
+        this.name = name;
+        this.birthday = birthday;
         this.Children = new List<Person>();
         this.Parents = new List<Person>();
     }
@@ -38,9 +44,33 @@ public class Person
         get { return children; }
         set { children = value; }
     }
+    public string GetName()
+    {
+        return this.name;
+    }
+    public string GetBirthDay()
+    {
+        return this.birthday;
+    }
 
+    public void AddParent(Person person)
+    {
+        this.Parents.Add(person);
+    }
+    public void AddChild(Person person)
+    {
+        this.Children.Add(person);
+    }
+    public void Print()
+    {
+        Console.WriteLine(this);
+        Console.WriteLine("Parents:");
+        Parents.ForEach(Console.WriteLine);
+        Console.WriteLine("Children:");
+        Children.ForEach(Console.WriteLine);
+    }
     public override string ToString()
     {
-        return $"{this.Name} {this.Birthday}";
+        return $"{Name} {Birthday}";
     }
 }
