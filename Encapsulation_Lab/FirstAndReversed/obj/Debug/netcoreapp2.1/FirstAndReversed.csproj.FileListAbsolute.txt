@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\bin\Debug\netcoreapp2.1\FirstAndReversed.deps.json
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\bin\Debug\netcoreapp2.1\FirstAndReversed.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\bin\Debug\netcoreapp2.1\FirstAndReversed.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\bin\Debug\netcoreapp2.1\FirstAndReversed.dll
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\bin\Debug\netcoreapp2.1\FirstAndReversed.pdb
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\obj\Debug\netcoreapp2.1\FirstAndReversed.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\obj\Debug\netcoreapp2.1\FirstAndReversed.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\obj\Debug\netcoreapp2.1\FirstAndReversed.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\obj\Debug\netcoreapp2.1\FirstAndReversed.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\obj\Debug\netcoreapp2.1\FirstAndReversed.dll
+C:\Users\User\source\repos\OOP-Basic\Encapsulation_Lab\FirstAndReversed\obj\Debug\netcoreapp2.1\FirstAndReversed.pdb

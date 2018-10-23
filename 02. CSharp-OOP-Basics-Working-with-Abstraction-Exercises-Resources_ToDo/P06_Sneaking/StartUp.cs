@@ -2,7 +2,7 @@
 
 namespace P06_Sneaking
 {
-    class Sneaking
+    class StartUp
     {
         static char[][] room;
         static void Main()
@@ -22,6 +22,7 @@ namespace P06_Sneaking
 
             var moves = Console.ReadLine().ToCharArray();
             int[] samPosition = new int[2];
+            bool ch = false;
             for (int row = 0; row < room.Length; row++)
             {
                 for (int col = 0; col < room[row].Length; col++)
@@ -30,8 +31,10 @@ namespace P06_Sneaking
                     {
                         samPosition[0] = row;
                         samPosition[1] = col;
+                        
                     }
                 }
+             
             }
             for (int i = 0; i < moves.Length; i++)
             {

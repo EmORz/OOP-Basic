@@ -2,9 +2,9 @@
 {
     public class Person
     {
-        private string firstName;
-        private string lastName;
-        private int age;
+        private string firstName = "";
+        private string lastName = "";
+        private int age = 0;
 
         public Person(string firstName, string lastName, int age)
         {
@@ -13,7 +13,7 @@
             this.age = age;
         }
         //
-        public string FisrtsName => this.firstName;
+        public string FisrtsName => this.firstName ;
         public string LastName => this.lastName;
         public int Age => this.age;
  

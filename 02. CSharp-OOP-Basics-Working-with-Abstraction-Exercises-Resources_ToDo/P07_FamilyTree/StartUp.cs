@@ -6,9 +6,10 @@ namespace P07_FamilyTree
 {
     class StartUp
     {
+        public static List<Person> familyTree;
         static void Main(string[] args)
         {
-            var familyTree = new List<Person>();
+            familyTree = new List<Person>();
             string personInput = Console.ReadLine();
             Person mainPerson = new Person();
 
@@ -57,7 +58,6 @@ namespace P07_FamilyTree
                             currentPerson.Name = firstPerson;
                             familyTree.Add(currentPerson);
                         }
-
                         SetChild(familyTree, currentPerson, secondPerson);
                     }
                 }
@@ -143,6 +143,7 @@ namespace P07_FamilyTree
 
         static bool IsBirthday(string input)
         {
+            Console.WriteLine(input[0]);
             return Char.IsDigit(input[0]);
         }
     }
