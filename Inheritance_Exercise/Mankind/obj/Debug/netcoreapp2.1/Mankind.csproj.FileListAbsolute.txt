@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\bin\Debug\netcoreapp2.1\Mankind.deps.json
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\bin\Debug\netcoreapp2.1\Mankind.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\bin\Debug\netcoreapp2.1\Mankind.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\bin\Debug\netcoreapp2.1\Mankind.dll
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\bin\Debug\netcoreapp2.1\Mankind.pdb
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\obj\Debug\netcoreapp2.1\Mankind.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\obj\Debug\netcoreapp2.1\Mankind.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\obj\Debug\netcoreapp2.1\Mankind.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\obj\Debug\netcoreapp2.1\Mankind.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\obj\Debug\netcoreapp2.1\Mankind.dll
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Exercise\Mankind\obj\Debug\netcoreapp2.1\Mankind.pdb
