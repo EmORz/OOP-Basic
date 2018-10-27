@@ -3,6 +3,7 @@
 namespace Mankind
 {
     using System;
+    using System.Linq;
     using System.Text;
 
     public class Student : Human
@@ -18,11 +19,10 @@ namespace Mankind
         {
             get => facultyNum; set
             {
-                if (value.Length<5||value.Length>10)
+                if (value.Length < 5 || value.Length > 10|| !(value.All(Char.IsLetterOrDigit)))
                 {
-                    Exception ex = new ArgumentException($"Invalid faculty number!");
-                    Console.WriteLine(ex.Message);
-                    Environment.Exit(0);
+                    throw new ArgumentException($"Invalid faculty number!");
+               
                 }
                 facultyNum = value;
             }
@@ -30,11 +30,10 @@ namespace Mankind
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"First Name: {this.FirstName}");
-            sb.AppendLine($"Last Name: {this.LastName}");
-            sb.AppendLine($"Faculty number: {this.FacultyNum}");
+            sb.Append(base.ToString())
+               .AppendLine($"Faculty number: {this.FacultyNum}");
             
-            return sb.ToString().TrimEnd();
+            return sb.ToString();
         }
     }
 }
