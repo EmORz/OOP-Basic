@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MordorsCruelPlan.Moods
+﻿namespace MordorsCruelPlan.Moods
 {
     public class MoodsS
     {
-        public virtual string Name => "Moods";
+        public virtual string Name => "Mood";
     }
 }

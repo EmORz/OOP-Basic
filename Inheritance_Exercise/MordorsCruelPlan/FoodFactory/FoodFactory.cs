@@ -11,16 +11,16 @@ namespace MordorsCruelPlan.FoodFactory
 
             switch (type)
             {
-                case "cram":
-                    return new Cram();
                 case "apple":
                     return new Apple();
+                case "cram":
+                    return new Cram();
+                case "honeycake":
+                    return new HoneyCake();
                 case "lembas":
                     return new Lembas();
                 case "melon":
                     return new Melon();
-                case "honeycake":
-                    return new HoneyCake();
                 case "mushrooms":
                     return new Mushrooms();
                 default:

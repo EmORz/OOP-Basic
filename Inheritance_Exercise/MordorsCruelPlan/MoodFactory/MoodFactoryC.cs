@@ -13,12 +13,12 @@ namespace MordorsCruelPlan.MoodFactory
             {
                 case "angry":
                     return new Angry();
-                case "sad":
-                    return new Sad();
                 case "happy":
                     return new Happy();
                 case "javascript ":
                     return new JavaScript();
+                case "sad":
+                    return new Sad();                
                 default:
                     throw new Exception("Invalid type!");
             }

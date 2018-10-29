@@ -10,19 +10,18 @@ namespace MordorssCruelPlan.Core
     {
         private FoodFactory foodFactory;
         private MoodFactory moodFactory;
-        private MoodsS moods;
         public Engine()
         {
             this.foodFactory = new FoodFactory();
             this.moodFactory = new MoodFactory();
-            this.moods = new MoodsS();
+           
         }
 
         public void Run()
         {
             int happinessPoints = 0;
 
-            string[] input = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            string[] input = Console.ReadLine().Split();
             for (int i = 0; i < input.Length; i++)
             {
                 string type = input[i];
@@ -30,23 +29,22 @@ namespace MordorssCruelPlan.Core
                 happinessPoints += currentFood.Happiness;
 
             }
-           
-            if (happinessPoints<-5)
+            MoodsS moods;
+            if (happinessPoints< -5)
             {
                 moods = moodFactory.CreateMoods("angry");
             }
-            else if (happinessPoints >= -5 && happinessPoints <= 0)
+            else if (happinessPoints >= -5 && happinessPoints < 0)
             {
                 moods = moodFactory.CreateMoods("sad");
             }
-            else if (happinessPoints > 0 && happinessPoints <= 15)
+            else if (happinessPoints >= 1 && happinessPoints < 15)
             {
                 moods = moodFactory.CreateMoods("happy");
             }
             else
             {
                 moods = moodFactory.CreateMoods("javascript");
-
             }
             Console.WriteLine(happinessPoints);
             Console.WriteLine(moods.Name);
