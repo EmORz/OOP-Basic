@@ -9,3 +9,14 @@ C:\Users\User\source\repos\InterfaceAndAbstraction_Lab\Shapes\obj\Debug\netcorea
 C:\Users\User\source\repos\InterfaceAndAbstraction_Lab\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
 C:\Users\User\source\repos\InterfaceAndAbstraction_Lab\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
 C:\Users\User\source\repos\InterfaceAndAbstraction_Lab\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\User\source\repos\OOP-Basic\InterfaceAndAbstraction_Lab\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb

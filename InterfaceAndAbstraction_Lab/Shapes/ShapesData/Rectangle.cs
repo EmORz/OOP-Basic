@@ -4,30 +4,48 @@ namespace Shapes
 {
     public class Rectangle : IDrawable
     {
-        private int width;
-        private int height;
+        private int? width;
+        private int? height;
 
-        public Rectangle(int height, int width)
+        public Rectangle(int? height, int? width)
         {
             this.Height = height;
             this.Width = width;
         }
 
-        public int Height
+        public int? Height
         {
             get { return height; }
-            private set { height = value; }
+            private set
+            {
+                if (value<4)
+                {
+                    throw new ArgumentException("Height must be  minimum 4");
+
+                }
+                height = value;
+                
+            }
         }
-        public int Width
+        public int? Width
         {
             get { return width; }
-            private set { width = value; }
+            private set
+            {
+                if (value < 4)
+                {
+                    throw new ArgumentException("Width must be  minimum 4");
+
+                }
+                width = value;
+                
+            }
         }
 
         public void Draw()
         {
             this.DrawLine(this.Width, '*', '*');
-            for (int i = 1; i < this.Height-1; i++)
+            for (int i = 1; i < this.Height-1; ++i)
             {
                 this.DrawLine(this.Width, '*', ' ');
             }
@@ -35,10 +53,10 @@ namespace Shapes
 
         }
 
-        private void DrawLine(int width, char end, char mid)
+        private void DrawLine(int? width, char end, char mid)
         {
             Console.Write(end);
-            for (int i = 1; i < width-1; i++)
+            for (int i = 1; i < width-1; ++i)
             {
                 Console.Write(mid);
             }

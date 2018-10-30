@@ -6,15 +6,25 @@ namespace Shapes.Core
     {
         public void Run()
         {
-            Double raduis = Double.Parse(Console.ReadLine());
-            IDrawable circle = new Circle(raduis);        
-
-
-            int width = int.Parse(Console.ReadLine());
-            int height = int.Parse(Console.ReadLine());
-            IDrawable rectangle = new Rectangle(height, width);
-            circle.Draw();
-            rectangle.Draw();
+            try
+            {
+                int raduis = int.Parse(Console.ReadLine());
+                int? width = int.Parse(Console.ReadLine());
+                int? height = int.Parse(Console.ReadLine());
+                
+                IDrawable circle = new Circle(raduis);
+                circle.Draw();
+            
+                IDrawable rectangle = new Rectangle(height, width);
+                rectangle.Draw();
+                
+                
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        
         }
     }
 }

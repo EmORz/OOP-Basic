@@ -4,27 +4,36 @@ namespace Shapes
 {
     public class Circle : IDrawable
     {
-        private double radius;
-        public Circle(double radius)
+        private int? radius;
+        public Circle(int? radius)
         {
-            this.Raduis = radius;
+            this.Radius = radius;
         }
-        public double Raduis
+        public int? Radius
         {
             get { return radius; }
-            private set { radius = value; }
+            private set
+            {
+                if (value<1)
+                {
+                    throw new ArgumentException("Radius must be  minimum 1");
+
+                }
+                this.radius = value;
+
+            }
         }
 
         public void Draw()
         {
-            double rIn = this.Raduis - 0.4;
-            double rOut = this.Raduis + 0.4;
+            double? rIn = this.Radius - 0.4;
+            double? rOut = this.Radius + 0.4;
 
-            for (double y = this.Raduis; y >= -this.Raduis; y--)
+            for (double? y = this.Radius; y >= -this.Radius; --y)
             {
-                for (double x = -this.Raduis; x < rOut; x += 0.5)
+                for (double? x = -this.Radius; x < rOut; x += 0.5)
                 {
-                    double value = x * x + y * y;
+                    double? value = x * x + y * y;
                     bool isInside = value >= rIn * rIn && value <= rOut * rOut;
                     if (isInside)
                     {

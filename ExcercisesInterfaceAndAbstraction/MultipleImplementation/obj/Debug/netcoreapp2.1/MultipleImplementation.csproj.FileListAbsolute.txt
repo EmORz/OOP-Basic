@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ExcercisesInterfaceAndAbstraction\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.deps.json
+C:\Users\User\source\repos\ExcercisesInterfaceAndAbstraction\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.runtimeconfig.json
+C:\Users\User\source\repos\ExcercisesInterfaceAndAbstraction\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExcercisesInterfaceAndAbstraction\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.dll
+C:\Users\User\source\repos\ExcercisesInterfaceAndAbstraction\MultipleImplementation\bin\Debug\netcoreapp2.1\MultipleImplementation.pdb
+C:\Users\User\source\repos\ExcercisesInterfaceAndAbstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExcercisesInterfaceAndAbstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExcercisesInterfaceAndAbstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.AssemblyInfo.cs
+C:\Users\User\source\repos\ExcercisesInterfaceAndAbstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.dll
+C:\Users\User\source\repos\ExcercisesInterfaceAndAbstraction\MultipleImplementation\obj\Debug\netcoreapp2.1\MultipleImplementation.pdb

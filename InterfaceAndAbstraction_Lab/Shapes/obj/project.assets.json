@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\InterfaceAndAbstraction_Lab\\Shapes\\Shapes.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\OOP-Basic\\InterfaceAndAbstraction_Lab\\Shapes\\Shapes.csproj",
       "projectName": "Shapes",
-      "projectPath": "C:\\Users\\User\\source\\repos\\InterfaceAndAbstraction_Lab\\Shapes\\Shapes.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\OOP-Basic\\InterfaceAndAbstraction_Lab\\Shapes\\Shapes.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\InterfaceAndAbstraction_Lab\\Shapes\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\OOP-Basic\\InterfaceAndAbstraction_Lab\\Shapes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
