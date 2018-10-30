@@ -3,12 +3,12 @@
     public abstract class Food
     {
 
-        protected Food(int happiness)
+        public Food(int happiness)
         {
             this.Happiness = happiness;
         }
 
-        public int Happiness { get;  }
+        public int Happiness { get; private set; }
 
     }
 }

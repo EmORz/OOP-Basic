@@ -13,8 +13,7 @@ namespace MordorssCruelPlan.Core
         public Engine()
         {
             this.foodFactory = new FoodFactory();
-            this.moodFactory = new MoodFactory();
-           
+            this.moodFactory = new MoodFactory();           
         }
 
         public void Run()
@@ -30,11 +29,11 @@ namespace MordorssCruelPlan.Core
 
             }
             MoodsS moods;
-            if (happinessPoints< -5)
+            if (happinessPoints < -5)
             {
                 moods = moodFactory.CreateMoods("angry");
             }
-            else if (happinessPoints >= -5 && happinessPoints < 0)
+            else if (happinessPoints >= -5 && happinessPoints <= 0)
             {
                 moods = moodFactory.CreateMoods("sad");
             }

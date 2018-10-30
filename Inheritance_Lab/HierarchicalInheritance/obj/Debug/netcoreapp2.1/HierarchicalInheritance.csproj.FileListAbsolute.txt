@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\bin\Debug\netcoreapp2.1\HierarchicalInheritance.deps.json
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\bin\Debug\netcoreapp2.1\HierarchicalInheritance.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\bin\Debug\netcoreapp2.1\HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\bin\Debug\netcoreapp2.1\HierarchicalInheritance.dll
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\bin\Debug\netcoreapp2.1\HierarchicalInheritance.pdb
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.dll
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.pdb
+C:\Users\User\source\repos\OOP-Basic\Inheritance_Lab\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.csprojAssemblyReference.cache
