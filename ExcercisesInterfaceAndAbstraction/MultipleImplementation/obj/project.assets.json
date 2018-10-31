@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ExcercisesInterfaceAndAbstraction\\MultipleImplementation\\MultipleImplementation.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\OOP-Basic\\ExcercisesInterfaceAndAbstraction\\MultipleImplementation\\MultipleImplementation.csproj",
       "projectName": "MultipleImplementation",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ExcercisesInterfaceAndAbstraction\\MultipleImplementation\\MultipleImplementation.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\OOP-Basic\\ExcercisesInterfaceAndAbstraction\\MultipleImplementation\\MultipleImplementation.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ExcercisesInterfaceAndAbstraction\\MultipleImplementation\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\OOP-Basic\\ExcercisesInterfaceAndAbstraction\\MultipleImplementation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

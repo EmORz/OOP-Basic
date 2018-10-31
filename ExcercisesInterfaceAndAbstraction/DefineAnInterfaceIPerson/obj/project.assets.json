@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ExcercisesInterfaceAndAbstraction\\DefineAnInterfaceIPerson\\DefineAnInterfaceIPerson.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\OOP-Basic\\ExcercisesInterfaceAndAbstraction\\DefineAnInterfaceIPerson\\DefineAnInterfaceIPerson.csproj",
       "projectName": "DefineAnInterfaceIPerson",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ExcercisesInterfaceAndAbstraction\\DefineAnInterfaceIPerson\\DefineAnInterfaceIPerson.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\OOP-Basic\\ExcercisesInterfaceAndAbstraction\\DefineAnInterfaceIPerson\\DefineAnInterfaceIPerson.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ExcercisesInterfaceAndAbstraction\\DefineAnInterfaceIPerson\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\OOP-Basic\\ExcercisesInterfaceAndAbstraction\\DefineAnInterfaceIPerson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\bin\Debug\netcoreapp2.1\FootShortage.deps.json
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\bin\Debug\netcoreapp2.1\FootShortage.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\bin\Debug\netcoreapp2.1\FootShortage.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\bin\Debug\netcoreapp2.1\FootShortage.dll
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\bin\Debug\netcoreapp2.1\FootShortage.pdb
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\obj\Debug\netcoreapp2.1\FootShortage.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\obj\Debug\netcoreapp2.1\FootShortage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\obj\Debug\netcoreapp2.1\FootShortage.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\obj\Debug\netcoreapp2.1\FootShortage.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\obj\Debug\netcoreapp2.1\FootShortage.dll
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\FootShortage\obj\Debug\netcoreapp2.1\FootShortage.pdb
