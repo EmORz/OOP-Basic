@@ -8,3 +8,4 @@ C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderCon
 C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
 C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.dll
 C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache
