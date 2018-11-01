@@ -19,9 +19,9 @@ namespace MilitaryElite.Models
                 return this.privates;
             }
         }
-        public void AddPrivate(Private @privates)
+        public void AddPrivate(Private newPrivate)
         {
-            this.privates.Add(@privates);
+            this.privates.Add(newPrivate);
         }
         public override string ToString()
         {
