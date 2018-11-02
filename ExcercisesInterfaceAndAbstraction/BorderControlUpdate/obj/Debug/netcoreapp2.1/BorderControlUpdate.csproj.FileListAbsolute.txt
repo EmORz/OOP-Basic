@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControlUpdate\bin\Debug\netcoreapp2.1\BorderControlUpdate.deps.json
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControlUpdate\bin\Debug\netcoreapp2.1\BorderControlUpdate.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControlUpdate\bin\Debug\netcoreapp2.1\BorderControlUpdate.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControlUpdate\bin\Debug\netcoreapp2.1\BorderControlUpdate.dll
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControlUpdate\bin\Debug\netcoreapp2.1\BorderControlUpdate.pdb
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControlUpdate\obj\Debug\netcoreapp2.1\BorderControlUpdate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControlUpdate\obj\Debug\netcoreapp2.1\BorderControlUpdate.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControlUpdate\obj\Debug\netcoreapp2.1\BorderControlUpdate.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControlUpdate\obj\Debug\netcoreapp2.1\BorderControlUpdate.dll
+C:\Users\User\source\repos\OOP-Basic\ExcercisesInterfaceAndAbstraction\BorderControlUpdate\obj\Debug\netcoreapp2.1\BorderControlUpdate.pdb
