@@ -43,7 +43,7 @@ namespace MilitaryElite.Models
 
         public override string ToString()
         {            
-            return $"Code Name: {this.Name} State: {this.State}";
+            return $"  Code Name: {this.Name} State: {this.State}";
         }
 
     }

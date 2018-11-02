@@ -28,7 +28,7 @@ namespace MilitaryElite.Models
             {
                 sb.AppendLine(item.ToString());
             }
-            return sb.ToString().ToString();
+            return sb.ToString().TrimEnd();
         }
     }
 }

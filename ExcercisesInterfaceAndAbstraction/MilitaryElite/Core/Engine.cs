@@ -8,6 +8,7 @@ namespace MilitaryElite.Core
     public class Engine
     {
         private List<Soldier> soldiers = new List<Soldier>();
+        //TODO => 40/100 must be refactoring
         public void Run()
         {
             string command = Console.ReadLine();
@@ -31,22 +32,55 @@ namespace MilitaryElite.Core
                         }
                         soldiers.Add(lieutenantGeneral);
                         break;
-                    case "commando": //TODO - Add implementation
+                    case "commando": 
+                        //<id> <firstName> <lastName> <salary> <corps> <mission1CodeName>  
+                        try
+                        {
+                            Commando commando = new Commando(tokens[1], tokens[2], tokens[3], decimal.Parse(tokens[4]), tokens[5]);
+                            for (int i = 6; i < tokens.Length; i+=2)
+                            {
+                                try
+                                {
+                                    Missions missions = new Missions(tokens[i], tokens[i + 1]);
+                                    commando.AddMissions(missions);
+                            }
+                                catch (ArgumentException)
+                                {
+
+                                }
+                            }
+                            soldiers.Add(commando);    
+                        }
+                        catch (ArgumentException)
+                        {
+
+                        }
                         break;
-                    case "engineer":  //TODO - Add implementation
+                    case "engineer": 
+                        try
+                        {
+                            //Engineer <id> <firstName> <lastName> <salary> <corps> <repair1Part> <repair1Hours> … <repairNPart> <repairNHours>
+                            Engineer engineer = new Engineer(tokens[1], tokens[2], tokens[3], decimal.Parse(tokens[4]), tokens[5]);
+                            for (int i = 6; i < tokens.Length; i+=2)
+                            {
+                                Repair repair = new Repair(tokens[i], int.Parse(tokens[i + 1]));
+                                engineer.AddRepair(repair);
+                            }
+                            soldiers.Add(engineer);
+                        }
+                        catch (ArgumentException)
+                        {
+
+                        }
                         break;
                     case "spy":
                         Spy spy = new Spy(tokens[1], tokens[2], tokens[3], int.Parse(tokens[4]));
                         soldiers.Add(spy);
                         break;
-               
-                    default:
-                        break;
                 }
-
-
                 command = Console.ReadLine();
             }
+            soldiers.ForEach(Console.WriteLine);
         }
     }
 }

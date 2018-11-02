@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MilitaryElite.Core;
+using System;
 
 namespace MilitaryElite
 {
@@ -6,7 +7,8 @@ namespace MilitaryElite
     {
         public static void Main(string[] args)
         {
-
+            Engine engine = new Engine();
+            engine.Run();
         }
     }
 }

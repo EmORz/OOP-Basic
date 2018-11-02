@@ -16,7 +16,7 @@ namespace MilitaryElite.Models
 
         public override string ToString()
         {
-            return $"Part Name: {this.Name} Hours Worked: {this.Hours}";
+            return $"  Part Name: {this.Name} Hours Worked: {this.Hours}";
         }
     }
 }
