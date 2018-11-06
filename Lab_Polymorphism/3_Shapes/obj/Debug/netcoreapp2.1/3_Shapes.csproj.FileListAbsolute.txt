@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\bin\Debug\netcoreapp2.1\3_Shapes.deps.json
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\bin\Debug\netcoreapp2.1\3_Shapes.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\bin\Debug\netcoreapp2.1\3_Shapes.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\bin\Debug\netcoreapp2.1\3_Shapes.dll
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\bin\Debug\netcoreapp2.1\3_Shapes.pdb
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.dll
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\3_Shapes\obj\Debug\netcoreapp2.1\3_Shapes.pdb
