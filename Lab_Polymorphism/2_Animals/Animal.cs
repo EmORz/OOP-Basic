@@ -10,7 +10,7 @@ namespace Animals
         private string name;
         private string favouriteFood;
 
-        protected Animal(string name, string favouriteFood)
+        public Animal(string name, string favouriteFood)
         {
             this.name = name;
             this.favouriteFood = favouriteFood;

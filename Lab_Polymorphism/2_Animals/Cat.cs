@@ -5,7 +5,7 @@ namespace Animals
 {
     public class Cat : Animal
     {
-        internal Cat(string name, string favouriteFood)
+        public Cat(string name, string favouriteFood)
         : base(name, favouriteFood)
         {
         }
