@@ -1,0 +1,23 @@
+﻿using System;
+using System.Text;
+
+namespace Animals
+{
+    public class Cat : Animal
+    {
+        internal Cat(string name, string favouriteFood)
+        : base(name, favouriteFood)
+        {
+        }
+
+        public override string ExplainSelf()
+        {
+            var builder = new StringBuilder();
+
+            builder.AppendLine(base.ExplainSelf())
+                .Append("MEEOW");
+
+            return builder.ToString();
+        }
+    }
+}
