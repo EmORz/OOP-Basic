@@ -1,21 +1,19 @@
-﻿using System;
-using System.Text;
+﻿using System.Text;
 
-namespace Animals
+public class Dog : Animal
 {
-    public class Dog : Animal
+    public Dog(string name, string favouriteFood)
+    : base(name, favouriteFood)
     {
-        public Dog(string name, string favouriteFood)
-        : base(name, favouriteFood)
-        {
-        }
+    }
 
-        public override string ExplainSelf()
-        {
-            var builder = new StringBuilder();
-            builder.AppendLine(base.ExplainSelf())
-                .Append("DJAAF");
-            return builder.ToString();
-        }
+    public override string ExplainSelf()
+    {
+        var builder = new StringBuilder();
+        builder.AppendLine(base.ExplainSelf())
+            .AppendLine("DJAAF");
+        string result = builder.ToString().TrimEnd();
+        return result;
     }
 }
+

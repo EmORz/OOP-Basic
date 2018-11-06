@@ -1,24 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Animals
+﻿
+public class Animal
 {
+    protected string Name;
+    protected string FavouriteFood;
 
-    public class Animal
+    public Animal(string name, string favouriteFood)
     {
-        private string name;
-        private string favouriteFood;
+        this.Name = name;
+        this.FavouriteFood = favouriteFood;
+    }
 
-        public Animal(string name, string favouriteFood)
-        {
-            this.name = name;
-            this.favouriteFood = favouriteFood;
-        }
-
-        public virtual string ExplainSelf()
-        {
-            return $"I am {this.name} and my fovourite food is {this.favouriteFood}";
-        }
+    public virtual string ExplainSelf()
+    {
+        return $"I am {this.Name} and my fovourite food is {this.FavouriteFood}";
     }
 }
+

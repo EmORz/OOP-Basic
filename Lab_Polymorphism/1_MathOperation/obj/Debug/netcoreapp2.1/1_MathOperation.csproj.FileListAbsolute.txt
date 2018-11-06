@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\bin\Debug\netcoreapp2.1\1_MathOperation.deps.json
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\bin\Debug\netcoreapp2.1\1_MathOperation.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\bin\Debug\netcoreapp2.1\1_MathOperation.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\bin\Debug\netcoreapp2.1\1_MathOperation.dll
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\bin\Debug\netcoreapp2.1\1_MathOperation.pdb
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.dll
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\1_MathOperation\obj\Debug\netcoreapp2.1\1_MathOperation.pdb
