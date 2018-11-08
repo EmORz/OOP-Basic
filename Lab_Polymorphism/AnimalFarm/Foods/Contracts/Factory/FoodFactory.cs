@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AnimalFarm.Foods.Contracts.Factory
+﻿namespace AnimalFarm.Foods.Contracts.Factory
 {
     public class FoodFactory
     {
@@ -19,7 +17,7 @@ namespace AnimalFarm.Foods.Contracts.Factory
                 case "vegetable":
                     return new Vegetable(quantity);
                 default:
-                    throw new ArgumentException("Invalid food type!");
+                    return null;
             }
         }
     }

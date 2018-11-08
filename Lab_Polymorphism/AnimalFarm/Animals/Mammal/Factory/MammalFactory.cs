@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AnimalFarm.Animals.Mammal.Factory
+﻿namespace AnimalFarm.Animals.Mammal.Factory
 {
     public class MammalFactory
     {
@@ -18,7 +14,7 @@ namespace AnimalFarm.Animals.Mammal.Factory
                 case "mouse":
                     return new Mouse(name, weight, livingRegion);
                 default:
-                    throw new ArgumentException("Invalid mammal type!");
+                    return null;
             }
         }
     }

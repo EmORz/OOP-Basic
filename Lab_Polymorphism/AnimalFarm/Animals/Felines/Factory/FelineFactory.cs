@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AnimalFarm.Animals.Felines.Factory
+﻿namespace AnimalFarm.Animals.Felines.Factory
 {
     public class FelineFactory
     {
@@ -16,7 +12,7 @@ namespace AnimalFarm.Animals.Felines.Factory
                 case "tiger":
                     return new Tiger(name, weight, livingRegion, breed);
                 default:
-                    throw new ArgumentException("Invalid feline type!");
+                    return null;
             }
 
         }

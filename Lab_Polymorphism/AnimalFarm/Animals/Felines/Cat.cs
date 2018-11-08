@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using AnimalFarm.Foods;
+﻿using AnimalFarm.Foods;
+using System;
 
 namespace AnimalFarm.Animals.Felines
 {
@@ -23,7 +21,7 @@ namespace AnimalFarm.Animals.Felines
             }
             else
             {
-                throw new ArgumentException($"{this.GetType().Name} does not eat {food.GetType().Name}!");
+                Console.WriteLine($"{this.GetType().Name} does not eat {food.GetType().Name}!");
             }
         }
 

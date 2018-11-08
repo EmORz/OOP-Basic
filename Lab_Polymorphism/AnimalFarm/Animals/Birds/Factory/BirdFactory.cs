@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AnimalFarm.Animals.Birds.Factory
+﻿namespace AnimalFarm.Animals.Birds.Factory
 {
     public class BirdFactory
     {
@@ -17,7 +13,7 @@ namespace AnimalFarm.Animals.Birds.Factory
                 case "hen":
                     return new Hen(name, weight, wingSize);
                 default:
-                    throw new ArgumentException("Invalid bird type!");
+                    return null;
             }
         }
     }

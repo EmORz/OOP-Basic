@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AnimalFarm.Animals.Contracts
+﻿namespace AnimalFarm.Animals.Contracts
 {
     public interface IAnimal
     {
