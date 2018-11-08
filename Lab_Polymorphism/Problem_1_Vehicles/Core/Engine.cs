@@ -12,16 +12,26 @@ namespace Problem_1_Vehicles.Core
         {
             string[] carArgs = Console.ReadLine().Split();
             string[] truckArgs = Console.ReadLine().Split();
+            string[] busArgs = Console.ReadLine().Split();
             //
-            //fuel and distance
             var fuelCarQuantity = double.Parse(carArgs[1]);
             var fuelCarConsumation = double.Parse(carArgs[2]);
+            var fuelCarTank = double.Parse(carArgs[3]);
+
             var fuelTruckQuantity = double.Parse(truckArgs[1]);
             var fuelTruckConsumation = double.Parse(truckArgs[2]);
+            var fuelTruckTank = double.Parse(truckArgs[3]);
+
+
+            var fuelBusQuantity = double.Parse(busArgs[1]);
+            var fuelBusConsumation = double.Parse(busArgs[2]);
+            var fuelBusTank = double.Parse(busArgs[3]);
+
             //
-            IVechile car = new Car(fuelCarQuantity,fuelCarConsumation);
-            IVechile truck = new Truck(fuelTruckQuantity, fuelTruckConsumation);
-            //
+            IVechile car = new Car(fuelCarQuantity,fuelCarConsumation, fuelCarTank);
+            IVechile truck = new Truck(fuelTruckQuantity, fuelTruckConsumation, fuelTruckTank);
+            IVechile bus = new Bus(fuelBusQuantity, fuelBusConsumation, fuelBusTank)
+;            //
             int count = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < count; i++)
@@ -61,6 +71,9 @@ namespace Problem_1_Vehicles.Core
                                     break;
                             }
                             break;
+                        case "DriveEmpty":
+                            bus.DriveEmpty(distane);
+                            break;
                         default:
                             break;
                     }
@@ -73,6 +86,7 @@ namespace Problem_1_Vehicles.Core
             }
             Console.WriteLine(car);
             Console.WriteLine(truck);
+            Console.WriteLine(bus);
 
         }
     }

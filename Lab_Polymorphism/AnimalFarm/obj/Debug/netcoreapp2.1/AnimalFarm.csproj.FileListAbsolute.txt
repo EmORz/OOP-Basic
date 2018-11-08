@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.deps.json
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.dll
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.pdb
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.dll
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.pdb
+C:\Users\User\source\repos\OOP-Basic\Lab_Polymorphism\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.csprojAssemblyReference.cache

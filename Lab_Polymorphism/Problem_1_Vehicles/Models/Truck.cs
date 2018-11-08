@@ -9,12 +9,13 @@ namespace Problem_1_Vehicles.Models
     {
         private const double fueilExtra = 1.6;
 
-        public Truck(double fuelQuantity, double fuelConsumation) : base(fuelQuantity, fuelConsumation+fueilExtra)
+        public Truck(double fuelQuantity, double fuelConsumation, double tankCapacity) : base(fuelQuantity, fuelConsumation + fueilExtra, tankCapacity)
         {
         }
+
         public override void Drive(double distance)
         {
-            if (this.fuelQuantity<this.fuelConsumation*distance)
+            if (this.FuelQuantity<this.FuelConsumation*distance)
             {
                 throw new ArgumentException("Truck needs refueling");
             }
@@ -22,12 +23,13 @@ namespace Problem_1_Vehicles.Models
         }
         public override void Refuel(double quantity)
         {
-            const double presecntMiss = 0.95;
-            base.Refuel(quantity*presecntMiss);
+            const double presecntMiss = 0.05;
+            base.Refuel(quantity);
+            this.FuelQuantity -= (quantity*presecntMiss);
         }
         public override string ToString()
         {
-            string message = $"{this.GetType().Name}: {this.fuelQuantity:f2}";
+            string message = $"{this.GetType().Name}: {this.FuelQuantity:f2}";
             return message;
         }
     }

@@ -14,7 +14,7 @@ namespace MilitaryElite.Models
             this.missions = new List<Missions>();
         }
 
-        public IReadOnlyCollection<IMissions> Missions => this.missions;
+        public IReadOnlyCollection<IMissions> Missions { get { return this.missions; } }
         public void AddMissions(Missions missions)
         {
             this.missions.Add(missions);

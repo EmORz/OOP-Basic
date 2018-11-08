@@ -39,16 +39,9 @@ namespace MilitaryElite.Core
                             Commando commando = new Commando(tokens[1], tokens[2], tokens[3], decimal.Parse(tokens[4]), tokens[5]);
                             for (int i = 6; i < tokens.Length; i+=2)
                             {
-                                try
-                                {
                                     Missions missions = new Missions(tokens[i], tokens[i + 1]);
                                     commando.AddMissions(missions);
-                            }
-                                catch (ArgumentException)
-                                {
-
-                                }
-                            }
+                            }         
                             soldiers.Add(commando);    
                         }
                         catch (ArgumentException)
