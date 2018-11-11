@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\bin\Debug\netcoreapp2.1\MultipleCatchBocks.deps.json
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\bin\Debug\netcoreapp2.1\MultipleCatchBocks.runtimeconfig.json
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\bin\Debug\netcoreapp2.1\MultipleCatchBocks.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\bin\Debug\netcoreapp2.1\MultipleCatchBocks.dll
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\bin\Debug\netcoreapp2.1\MultipleCatchBocks.pdb
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\obj\Debug\netcoreapp2.1\MultipleCatchBocks.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\obj\Debug\netcoreapp2.1\MultipleCatchBocks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\obj\Debug\netcoreapp2.1\MultipleCatchBocks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\obj\Debug\netcoreapp2.1\MultipleCatchBocks.AssemblyInfo.cs
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\obj\Debug\netcoreapp2.1\MultipleCatchBocks.dll
+C:\Users\User\source\repos\Exceptions\MultipleCatchBocks\obj\Debug\netcoreapp2.1\MultipleCatchBocks.pdb

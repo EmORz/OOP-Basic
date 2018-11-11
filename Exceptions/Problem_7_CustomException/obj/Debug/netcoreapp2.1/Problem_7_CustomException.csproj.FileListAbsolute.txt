@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\bin\Debug\netcoreapp2.1\Problem_7_CustomException.deps.json
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\bin\Debug\netcoreapp2.1\Problem_7_CustomException.runtimeconfig.json
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\bin\Debug\netcoreapp2.1\Problem_7_CustomException.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\bin\Debug\netcoreapp2.1\Problem_7_CustomException.dll
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\bin\Debug\netcoreapp2.1\Problem_7_CustomException.pdb
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\obj\Debug\netcoreapp2.1\Problem_7_CustomException.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\obj\Debug\netcoreapp2.1\Problem_7_CustomException.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\obj\Debug\netcoreapp2.1\Problem_7_CustomException.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\obj\Debug\netcoreapp2.1\Problem_7_CustomException.AssemblyInfo.cs
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\obj\Debug\netcoreapp2.1\Problem_7_CustomException.dll
+C:\Users\User\source\repos\Exceptions\Problem_7_CustomException\obj\Debug\netcoreapp2.1\Problem_7_CustomException.pdb

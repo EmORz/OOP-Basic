@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\bin\Debug\netcoreapp2.1\Problem_6_ValidPerson.deps.json
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\bin\Debug\netcoreapp2.1\Problem_6_ValidPerson.runtimeconfig.json
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\bin\Debug\netcoreapp2.1\Problem_6_ValidPerson.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\bin\Debug\netcoreapp2.1\Problem_6_ValidPerson.dll
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\bin\Debug\netcoreapp2.1\Problem_6_ValidPerson.pdb
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\obj\Debug\netcoreapp2.1\Problem_6_ValidPerson.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\obj\Debug\netcoreapp2.1\Problem_6_ValidPerson.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\obj\Debug\netcoreapp2.1\Problem_6_ValidPerson.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\obj\Debug\netcoreapp2.1\Problem_6_ValidPerson.AssemblyInfo.cs
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\obj\Debug\netcoreapp2.1\Problem_6_ValidPerson.dll
+C:\Users\User\source\repos\Exceptions\Problem_6_ValidPerson\obj\Debug\netcoreapp2.1\Problem_6_ValidPerson.pdb

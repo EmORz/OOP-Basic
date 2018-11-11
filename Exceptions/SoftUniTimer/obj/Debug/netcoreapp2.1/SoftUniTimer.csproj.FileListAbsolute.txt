@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.deps.json
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.runtimeconfig.json
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.dll
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.pdb
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.AssemblyInfo.cs
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.dll
+C:\Users\User\source\repos\Exceptions\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.pdb

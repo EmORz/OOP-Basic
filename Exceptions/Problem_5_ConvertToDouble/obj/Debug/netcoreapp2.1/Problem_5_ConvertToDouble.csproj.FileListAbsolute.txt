@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\bin\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.deps.json
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\bin\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.runtimeconfig.json
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\bin\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\bin\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.dll
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\bin\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.pdb
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\obj\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\obj\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\obj\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\obj\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.AssemblyInfo.cs
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\obj\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.dll
+C:\Users\User\source\repos\Exceptions\Problem_5_ConvertToDouble\obj\Debug\netcoreapp2.1\Problem_5_ConvertToDouble.pdb

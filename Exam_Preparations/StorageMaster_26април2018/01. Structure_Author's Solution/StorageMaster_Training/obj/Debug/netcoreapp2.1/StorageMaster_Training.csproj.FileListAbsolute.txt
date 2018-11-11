@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\bin\Debug\netcoreapp2.1\StorageMaster_Training.deps.json
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\bin\Debug\netcoreapp2.1\StorageMaster_Training.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\bin\Debug\netcoreapp2.1\StorageMaster_Training.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\bin\Debug\netcoreapp2.1\StorageMaster_Training.dll
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\bin\Debug\netcoreapp2.1\StorageMaster_Training.pdb
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\obj\Debug\netcoreapp2.1\StorageMaster_Training.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\obj\Debug\netcoreapp2.1\StorageMaster_Training.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\obj\Debug\netcoreapp2.1\StorageMaster_Training.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\obj\Debug\netcoreapp2.1\StorageMaster_Training.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\obj\Debug\netcoreapp2.1\StorageMaster_Training.dll
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster_Training\obj\Debug\netcoreapp2.1\StorageMaster_Training.pdb

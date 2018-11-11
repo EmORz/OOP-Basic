@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\bin\Debug\netcoreapp2.1\Problem_1_Square Root.deps.json
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\bin\Debug\netcoreapp2.1\Problem_1_Square Root.runtimeconfig.json
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\bin\Debug\netcoreapp2.1\Problem_1_Square Root.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\bin\Debug\netcoreapp2.1\Problem_1_Square Root.dll
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\bin\Debug\netcoreapp2.1\Problem_1_Square Root.pdb
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\obj\Debug\netcoreapp2.1\Problem_1_Square Root.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\obj\Debug\netcoreapp2.1\Problem_1_Square Root.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\obj\Debug\netcoreapp2.1\Problem_1_Square Root.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\obj\Debug\netcoreapp2.1\Problem_1_Square Root.AssemblyInfo.cs
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\obj\Debug\netcoreapp2.1\Problem_1_Square Root.dll
+C:\Users\User\source\repos\Exceptions\Problem_1_Square Root\obj\Debug\netcoreapp2.1\Problem_1_Square Root.pdb

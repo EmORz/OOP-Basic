@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.deps.json
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.dll
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.dll
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\StorageMaster_26април2018\01. Structure_Author's Solution\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.pdb

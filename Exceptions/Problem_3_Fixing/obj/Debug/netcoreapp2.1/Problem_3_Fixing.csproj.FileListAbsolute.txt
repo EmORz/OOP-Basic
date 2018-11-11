@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\bin\Debug\netcoreapp2.1\Problem_3_Fixing.deps.json
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\bin\Debug\netcoreapp2.1\Problem_3_Fixing.runtimeconfig.json
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\bin\Debug\netcoreapp2.1\Problem_3_Fixing.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\bin\Debug\netcoreapp2.1\Problem_3_Fixing.dll
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\bin\Debug\netcoreapp2.1\Problem_3_Fixing.pdb
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\obj\Debug\netcoreapp2.1\Problem_3_Fixing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\obj\Debug\netcoreapp2.1\Problem_3_Fixing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\obj\Debug\netcoreapp2.1\Problem_3_Fixing.AssemblyInfo.cs
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\obj\Debug\netcoreapp2.1\Problem_3_Fixing.dll
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\obj\Debug\netcoreapp2.1\Problem_3_Fixing.pdb
+C:\Users\User\source\repos\Exceptions\Problem_3_Fixing\obj\Debug\netcoreapp2.1\Problem_3_Fixing.csprojAssemblyReference.cache

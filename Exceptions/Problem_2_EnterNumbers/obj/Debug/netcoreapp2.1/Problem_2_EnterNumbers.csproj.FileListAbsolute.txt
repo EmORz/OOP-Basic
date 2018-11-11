@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\bin\Debug\netcoreapp2.1\Problem_2_EnterNumbers.deps.json
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\bin\Debug\netcoreapp2.1\Problem_2_EnterNumbers.runtimeconfig.json
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\bin\Debug\netcoreapp2.1\Problem_2_EnterNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\bin\Debug\netcoreapp2.1\Problem_2_EnterNumbers.dll
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\bin\Debug\netcoreapp2.1\Problem_2_EnterNumbers.pdb
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\obj\Debug\netcoreapp2.1\Problem_2_EnterNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\obj\Debug\netcoreapp2.1\Problem_2_EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\obj\Debug\netcoreapp2.1\Problem_2_EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\obj\Debug\netcoreapp2.1\Problem_2_EnterNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\obj\Debug\netcoreapp2.1\Problem_2_EnterNumbers.dll
+C:\Users\User\source\repos\Exceptions\Problem_2_EnterNumbers\obj\Debug\netcoreapp2.1\Problem_2_EnterNumbers.pdb
