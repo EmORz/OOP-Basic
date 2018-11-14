@@ -24,7 +24,7 @@ namespace StorageMaster.Factories
                     storage = new Warehouse(name);
                     break;
                 default:
-                    throw new InvalidOperationException("Invalid product type!");
+                    throw new InvalidOperationException("Invalid storage type!");
             }
             return storage;
         }

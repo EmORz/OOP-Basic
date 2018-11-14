@@ -37,8 +37,8 @@ namespace StorageMaster.Entities.Vehicles
             {
                 throw new InvalidOperationException("No products left in vehicle!");
             }
-            var lastProduct = this.trunk.Last();
-            this.trunk.Remove(lastProduct);
+            var lastProduct = this.trunk[trunk.Count-1];
+            this.trunk.RemoveAt(trunk.Count-1);
             //TODO Look for error from this operation
             return lastProduct;
         }

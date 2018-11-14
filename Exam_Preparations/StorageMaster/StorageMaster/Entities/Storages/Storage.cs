@@ -57,7 +57,7 @@ namespace StorageMaster.Entities.Storages
         {
             if (this.IsFull)
             {
-                throw new InvalidOperationException("Storage is full!.");
+                throw new InvalidOperationException("Storage is full!");
             }
             var vehicle = this.GetVehicle(garageSlot);
             var unloadedProduct = 0;

@@ -64,7 +64,7 @@ namespace StorageMaster.Core
                 if (!this.products.ContainsKey(productName)
                     || this.products[productName].Count==0)
                 {
-                    throw new InvalidOperationException($"{productName} is out of stock");
+                    throw new InvalidOperationException($"{productName} is out of stock!");
                 }
                 var product = this.products[productName].Pop();
 
@@ -91,7 +91,7 @@ namespace StorageMaster.Core
 
             int destinationGarageSlot = sourceStorage.SendVehicleTo(sourceGarageSlot, destinationStorage);
 
-            return $"Sent {vehicle.GetType().GetType().Name} to {destinationName} (slot {destinationGarageSlot})";
+            return $"Sent {vehicle.GetType().Name} to {destinationName} (slot {destinationGarageSlot})";
 
 
         }
@@ -99,17 +99,79 @@ namespace StorageMaster.Core
         public string UnloadVehicle(string storageName, int garageSlot)
         {
             //TODO - Add functionality
-            throw new NotImplementedException();
+            Storage storage = this.storages[storageName];
+            var productsInVehicle = storage.GetVehicle(garageSlot).Trunk.Count;
+            int unloadedProductsCount = storage.UnloadVehicle(garageSlot);
+            string result = $"Unloaded {unloadedProductsCount}/{productsInVehicle} products at {storageName}";
+            return result;
         }
 
         public string GetStorageStatus(string storageName)
         {
-            throw new NotImplementedException();
+            Storage storage = this.storages[storageName];
+
+            Dictionary<string, int> countProducts = new Dictionary<string, int>();
+            foreach (Product product in storage.Products)
+            {
+                var productTypeName = product.GetType().Name;
+                if (!countProducts.ContainsKey(productTypeName))
+                {
+                    countProducts.Add(productTypeName, 1);
+                }
+                else
+                {
+                    countProducts[productTypeName]++;
+                }
+            }
+            var sumOfProductsWeight = storage.Products.Sum(p => p.Weight);
+            var storageCapacity = storage.Capacity;
+
+            //var sortedData = countProducts.OrderByDescending(x => x.Value)
+            //    .ThenBy(x => x.Key)
+            //    .ToDictionary(x => x.Key, y => y.Value);
+
+            //string[] productAsStr = new string[sortedData.Count];
+
+            //var index = 0;
+            //foreach (var product in sortedData)
+            //{
+            //    var strResult = $"{product.Key} ({product.Value})";
+            //    productAsStr[index++] = strResult;
+
+            //}
+
+            var productAsString = countProducts.OrderByDescending(x => x.Value)
+                .ThenBy(x => x.Key)
+                .Select(kvp => $"{kvp.Key} ({kvp.Value})")
+                .ToArray();
+            var stockLine = $"Stock ({sumOfProductsWeight}/{storageCapacity}): [{string.Join(", ", productAsString)}]";
+
+            var storageRepresentationAsStr = storage.Garage.Select(g => g == null ? "empty" : g.GetType().Name).ToArray();
+
+            var garageAsLine = $"Garage: [{string.Join("|", storageRepresentationAsStr)}]";
+
+            string result = stockLine +
+                Environment.NewLine +
+                garageAsLine;
+
+            return result;
         }
 
         public string GetSummary()
         {
-            throw new NotImplementedException();
+            var sortedStorages = this.storages
+                .Select(s => s.Value)
+                .OrderByDescending(x => x.Products.Sum(p => p.Price))
+                .ToArray();
+
+            StringBuilder sb = new StringBuilder();
+            foreach (var storage in sortedStorages)
+            {
+                var temp = storage.Products.Sum(p => p.Price);
+                sb.AppendLine($"{storage.Name}:");
+                sb.AppendLine($"Storage worth: ${temp:F2}");
+            }
+            return sb.ToString().TrimEnd();
         }
 
     }
