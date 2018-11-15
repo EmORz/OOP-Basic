@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.deps.json
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.json
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.dev.json
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+C:\Users\User\source\repos\OOP-Basic\Exam_Preparations\DungeonsAndCodeWizards_18март2018\Structure_Skeleton (.NET Core)\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
